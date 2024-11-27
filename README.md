@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artyom</h1>
 <h3 align="center">Backend developer</h3>
 
-- 🔭 I’m currently working on [Telegram bot for blood donation](https://github.com/catfield123/donor-day-bot)
+- 🔭 I’m currently working on [Tebogen: Telegram Bot Generator](https://github.com/catfield123/tebogen)
 
 - 🌱 I’m currently learning **kubernetes, kafka, aiogram**
 
